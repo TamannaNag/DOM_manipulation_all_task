@@ -1,0 +1,36 @@
+.background{
+    background-image: url("chat.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.heading{
+    color: aliceblue;
+    background-color: cornflowerblue;
+    font-size: 20px;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 14px;
+}
+.whole{
+    padding: 14px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+.text-rec{
+    background-color: #52606d;
+    padding: 12px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    text-align: left;
+}
+.text-sent{
+    background-color: #47a3f3;
+    padding: 12px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    text-align: right;
+}
